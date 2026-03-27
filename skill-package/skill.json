@@ -15,7 +15,7 @@
       },
       "isAvailableWorldwide": true,
       "testingInstructions": "Say 'Alexa, open Chill Music' to start.",
-      "category": "HEALTH_AND_FITNESS",
+      "category": "MUSIC_AND_AUDIO",
       "distributionCountries": []
     },
     "apis": {
