@@ -21,7 +21,8 @@
     "apis": {
       "custom": {
         "endpoint": {
-          "uri": "arn:aws:lambda:us-east-1:000000000000:function:my-function"
+          "sourceDir": "lambda",
+          "uri": "ask-custom-chillmusic-default"
         },
         "interfaces": [
           {
