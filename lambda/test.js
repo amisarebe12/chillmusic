@@ -1,4 +1,4 @@
-const { handler } = require('./src/index');
+const { handler } = require('./index');
 
 // Hàm Helper để chạy test
 async function runTest(eventName, eventPayload) {
