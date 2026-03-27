@@ -47,10 +47,6 @@
             "play ambient music",
             "chill"
           ]
-        },
-        {
-          "name": "AMAZON.NavigateHomeIntent",
-          "samples": []
         }
       ],
       "types": []
