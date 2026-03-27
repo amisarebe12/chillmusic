@@ -4,24 +4,39 @@
       "invocationName": "chill music",
       "intents": [
         {
-          "name": "AMAZON.CancelIntent",
-          "samples": []
-        },
-        {
           "name": "AMAZON.HelpIntent",
-          "samples": []
+          "samples": [
+            "help",
+            "help me",
+            "what can I say"
+          ]
         },
         {
           "name": "AMAZON.StopIntent",
-          "samples": []
+          "samples": [
+            "stop",
+            "stop the music"
+          ]
         },
         {
           "name": "AMAZON.PauseIntent",
-          "samples": []
+          "samples": [
+            "pause",
+            "pause the music"
+          ]
         },
         {
           "name": "AMAZON.ResumeIntent",
-          "samples": []
+          "samples": [
+            "resume",
+            "resume the music"
+          ]
+        },
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": [
+            "cancel"
+          ]
         },
         {
           "name": "PlayAudioIntent",
