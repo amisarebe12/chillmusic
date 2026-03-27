@@ -1,0 +1,16 @@
+{
+  "name": "chill-music",
+  "version": "1.0.0",
+  "description": "Chill Music Alexa Skill - Ambient Relaxation",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "ask-sdk-core": "^2.14.0",
+    "ask-sdk-model": "^1.39.0"
+  },
+  "author": "Trae AI",
+  "license": "ISC"
+}
